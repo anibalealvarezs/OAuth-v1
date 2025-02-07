@@ -8,7 +8,7 @@ Require the package in the `composer.json` file of your project, and map the pac
 {
     "require": {
         "php": ">=8.1",
-        "anibalealvarezs/OAuth-v1": "@dev"
+        "anibalealvarezs/oauth-v1": "@dev"
     }
 }
 ```
